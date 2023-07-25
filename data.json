@@ -1,0 +1,33 @@
+{
+  "Users": [
+    {
+      "Username": "....",
+      "Attributes": [
+        {
+          "Name": "sub",
+          "Value": "..."
+        },
+        {
+          "Name": "email_verified",
+          "Value": "true"
+        },
+        {
+          "Name": "name",
+          "Value": "John Doe"
+        },
+        {
+          "Name": "phone_number_verified",
+          "Value": "false"
+        },
+        {
+          "Name": "email",
+          "Value": "johndoe@apple.com"
+        }
+      ],
+      "UserCreateDate": "...",
+      "UserLastModifiedDate": "...",
+      "Enabled": true,
+      "UserStatus": "CONFIRMED"
+    }
+  ]
+}
